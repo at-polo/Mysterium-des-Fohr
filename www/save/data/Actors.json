@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":2,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"ernst_fries","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ernst_fries","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ernst Fries","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"carl_rottmann","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"carl_rottmann","traits":[],"initialLevel":1,"maxLevel":99,"name":"Carl Rottmann","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"franz_horny","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"franz_horny","traits":[],"initialLevel":1,"maxLevel":99,"name":"Franz Horny","nickname":"","note":"","profile":""}
+]
