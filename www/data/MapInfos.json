@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Caffè Greco","order":1,"parentId":0,"scrollX":917.4,"scrollY":564},
-{"id":2,"expanded":true,"name":"Brücke","order":2,"parentId":1,"scrollX":927,"scrollY":573.6},
+{"id":2,"expanded":false,"name":"Brücke","order":2,"parentId":1,"scrollX":927,"scrollY":573.6},
 {"id":3,"expanded":false,"name":"Brücke bemalt","order":3,"parentId":2,"scrollX":893.4545454545455,"scrollY":496.90909090909093},
 {"id":4,"expanded":true,"name":"Bild 2 (Wald/Felsen)","order":4,"parentId":1,"scrollX":927,"scrollY":573.6},
 {"id":5,"expanded":false,"name":"Bild 3 (Ziege)","order":5,"parentId":1,"scrollX":927,"scrollY":573.6},
